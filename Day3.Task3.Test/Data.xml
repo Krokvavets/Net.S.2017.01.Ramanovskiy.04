@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestCases>
+  <TestCase>
+    <targetNumber>8</targetNumber>
+    <insertNumber>15</insertNumber>
+	<i>0</i>
+    <j>0</j>
+    <ExpectedResult>9</ExpectedResult>
+  </TestCase>

@@ -1,0 +1,9 @@
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Day3.Task3.Test\bin\Debug\Day3.Task3.Test.dll
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Day3.Task3.Test\bin\Debug\Day3.Task3.Test.pdb
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Day3.Task3.Test\bin\Debug\nunit.framework.dll
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Day3.Task3.Test\bin\Debug\Task3.dll
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Day3.Task3.Test\bin\Debug\nunit.framework.xml
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Day3.Task3.Test\bin\Debug\Task3.pdb
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Day3.Task3.Test\obj\Debug\Day3.Task3.NunitTest.csprojResolveAssemblyReference.cache
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Day3.Task3.Test\obj\Debug\Day3.Task3.Test.dll
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Day3.Task3.Test\obj\Debug\Day3.Task3.Test.pdb
