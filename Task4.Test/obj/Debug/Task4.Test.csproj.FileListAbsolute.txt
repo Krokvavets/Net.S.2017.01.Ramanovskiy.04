@@ -1,0 +1,9 @@
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Task4.Test\bin\Debug\Task4.Test.dll
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Task4.Test\bin\Debug\Task4.Test.pdb
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Task4.Test\bin\Debug\nunit.framework.dll
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Task4.Test\bin\Debug\Task4.dll
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Task4.Test\bin\Debug\nunit.framework.xml
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Task4.Test\bin\Debug\Task4.pdb
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Task4.Test\obj\Debug\Task4.Test.csprojResolveAssemblyReference.cache
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Task4.Test\obj\Debug\Task4.Test.dll
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Task4.Test\obj\Debug\Task4.Test.pdb
