@@ -1,8 +1,0 @@
-C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Test\bin\Debug\Test.exe.config
-C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Test\bin\Debug\Test.exe
-C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Test\bin\Debug\Test.pdb
-C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
-C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Test\obj\Debug\Test.exe
-C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Test\obj\Debug\Test.pdb
-C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Test\bin\Debug\Task4.dll
-C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Test\bin\Debug\Task4.pdb
