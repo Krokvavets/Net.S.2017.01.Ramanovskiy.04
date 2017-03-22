@@ -1,0 +1,9 @@
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Day3.Task3,MSTest\bin\Debug\Day3.Task3,MSTest.dll
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Day3.Task3,MSTest\bin\Debug\Day3.Task3,MSTest.pdb
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Day3.Task3,MSTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Day3.Task3,MSTest\bin\Debug\Task3.dll
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Day3.Task3,MSTest\bin\Debug\Task3.pdb
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Day3.Task3,MSTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Day3.Task3,MSTest\obj\Debug\Day3.Task3.MSTest.csprojResolveAssemblyReference.cache
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Day3.Task3,MSTest\obj\Debug\Day3.Task3,MSTest.dll
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.04\Day3.Task3,MSTest\obj\Debug\Day3.Task3,MSTest.pdb

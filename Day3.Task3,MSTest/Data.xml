@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+  <TestCase>
+    <targetNumber>8</targetNumber>
+    <insertNumber>15</insertNumber>
+	<i>0</i>
+    <j>0</j>
+    <ExpectedResult>9</ExpectedResult>
+  </TestCase>
+    <TestCase>
+    <targetNumber>0</targetNumber>
+    <insertNumber>15</insertNumber>
+	<i>30</i>
+    <j>30</j>
+    <ExpectedResult>1073741824</ExpectedResult>
+  </TestCase>
+    <TestCase>
+    <targetNumber>0</targetNumber>
+    <insertNumber>15</insertNumber>
+	<i>0</i>
+    <j>30</j>
+    <ExpectedResult>15</ExpectedResult>
+  </TestCase>
+    <TestCase>
+    <targetNumber>int.MaxValue</targetNumber>
+    <insertNumber>int.MaxValue</insertNumber>
+	<i>3</i>
+    <j>5</j>
+    <ExpectedResult>int.MaxValue</ExpectedResult>
+  </TestCase>
+    <TestCase>
+    <targetNumber>15</targetNumber>
+    <insertNumber>15</insertNumber>
+	<i>1</i>
+    <j>3</j>
+    <ExpectedResult>15</ExpectedResult>
+  </TestCase>

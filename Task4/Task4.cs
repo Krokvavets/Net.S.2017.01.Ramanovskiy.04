@@ -8,20 +8,27 @@ namespace Task4
 {
     public static class Task4
     {
-        public static double NewtonianMethod(double A, int n, double eps)
+        ///<summary>
+        /// The method calculate Ninth Root
+        ///</summary>
+        /// <param name="number">input value</param>
+        /// <param name="n">power</param>
+        /// <param name="eps">precision</param>
+        ///<returns>Ninth Root</returns>
+        public static double NewtonianMethod(double number, int n, double eps)
         {
-            if(A < 0)
+            if (number < 0)
                 throw new ArgumentException("invalid value");
-            double pow = (double)n;
-            double x0 = A/n;
-            double xn = (1/pow)*((n-1)*x0+A/Math.Pow(x0,n-1));
+            ;
+            double x0 = number / n;
+            double xn = (1 / (double)n) * ((n - 1) * x0 + number / Math.Pow(x0, n - 1));
             while (Math.Abs(xn - x0) > eps)
             {
                 x0 = xn;
-                xn = (1 / pow) * ((n - 1) * x0 + A / Math.Pow(x0, n - 1));
+                xn = (1 / (double)n) * ((n - 1) * x0 + number / Math.Pow(x0, n - 1));
             }
             return xn;
         }
-       
+
     }
 }
